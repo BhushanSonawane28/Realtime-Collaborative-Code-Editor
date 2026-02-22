@@ -135,5 +135,5 @@ I am Bhushan Sonawane, a Computer Science graduate from Shri Shivaji Vidya Prasa
 
 ## Connect with me
 
-- [LinkedIn]([(https://www.linkedin.com/in/bhushan-v-sonawane/)])
+- [LinkedIn](https://www.linkedin.com/in/bhushan-v-sonawane/)
 - [GitHub](https://www.github.com/bhushanSonawane28/)
