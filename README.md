@@ -46,8 +46,8 @@ Are you tired of sending code snippets back and forth, struggling to debug and c
 To run the docker image, follow the steps below:
 
 1. Install [Docker](https://www.docker.com/) on your machine.
-2. Pull the docker image from the docker hub by running `docker pull mohitur/code-editor`
-3. Run the docker image by running `docker run -p 8000:8000 -p 3000:3000 -p 5000:5000 mohitur/code-editor`
+2. Pull the docker image from the docker hub by running `docker pull Bhushan/code-editor`
+3. Run the docker image by running `docker run -p 8000:8000 -p 3000:3000 -p 5000:5000 Bhushan/code-editor`
 4. Go to `http://localhost:3000` to view the app
 5. Create a room by clicking on the `create new room` button and put a username of your choice
    5 . Copy the room id by clicking on the `Copy ROOM ID` button
@@ -68,7 +68,7 @@ To run the app using docker, follow the steps below:
 4. Replace your username in docker-compose.yml file.
 5. Run the Docker Compose command: `docker-compose up -d`
 6. Go to `http://localhost:3000` to view the app
-7. Follow the steps 5-7 from the [Running via Docker Image](https://github.com/Mohitur669/Realtime-Collaborative-Code-Editor?tab=readme-ov-file#running-via-docker-image) section to create and join a room
+7. Follow the steps 5-7 from the [Running via Docker Image](https://github.com/BhushanSonawane28/Realtime-Collaborative-Code-Editor?tab=readme-ov-file#running-via-docker-image) section to create and join a room
 
 ### Running Locally
 
@@ -78,15 +78,15 @@ To run the app using docker, follow the steps below:
 4. To start the react app client run `npm start` in one terminal
 5. To start the server run `npm run server:dev` or `pm2 start server.js` in another terminal
 6. Go to `http://localhost:3000` to view the app
-7. Follow the steps 4-7 from the [Running via Docker Image](https://github.com/Mohitur669/Realtime-Collaborative-Code-Editor?tab=readme-ov-file#running-via-docker-image) section to create and join a room
+7. Follow the steps 4-7 from the [Running via Docker Image](https://github.com/BhushanSonawane28/Realtime-Collaborative-Code-Editor?tab=readme-ov-file#running-via-docker-image) section to create and join a room
 
 **Note:** To stop your server, press `Ctrl+c` or if you used "pm2", then use `pm2 stop server.js` in the terminal.
 
 ## Project Video
 
-https://github.com/Mohitur669/Realtime-Collaborative-Code-Editor/assets/79283402/14c17cc7-d23a-4d39-8af3-ef9e9fa8ef45
+https://github.com/BhushanSonawane28/Realtime-Collaborative-Code-Editor/assets/79283402/14c17cc7-d23a-4d39-8af3-ef9e9fa8ef45
 
-**Note:** If you find any bugs, create an Issue [here](https://github.com/Mohitur669/Realtime-Collaborative-Code-Editor/issues). I will try to fix it as soon as possible :) <br>
+**Note:** If you find any bugs, create an Issue [here](https://github.com/BhushanSonawane28/Realtime-Collaborative-Code-Editor/issues). I will try to fix it as soon as possible :) <br>
 In case you want to fix it yourself, feel free to make a pull request.
 
 ## Future Scope
@@ -131,9 +131,9 @@ git push origin your_branch_name
 
 ## About Me
 
-I am Mohd Mohitur Rahaman, a tech geek, currently pursuing a Master's in Computer Applications (Final Year) from KIIT, Bhubaneswar. And with a deep passion for coding and a strong love for science & technology, I am dedicated to honing my skills and achieving proficiency as a developer.
+I am Bhushan Sonawane, a Computer Science graduate from Shri Shivaji Vidya Prasarak Sanstha's Bapusaheb Shivaji Rao Deore College of Engineering. With a strong interest in software development and technology, I am passionate about coding and continuously improving my technical skills to build efficient and scalable applications.
 
 ## Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/mohitur02/)
-- [GitHub](https://www.github.com/Mohitur669/)
+- [LinkedIn]([(https://www.linkedin.com/in/bhushan-v-sonawane/)])
+- [GitHub](https://www.github.com/bhushanSonawane28/)
